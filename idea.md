@@ -5,4 +5,4 @@ Page 15:
 - Marketing
 - Value Delivery and Opeerations
 - Customer Service
-- Finance
+- Finance idea
